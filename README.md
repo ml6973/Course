@@ -45,6 +45,7 @@ Course project (45%)
 - A crash course on Python data structures
 - Real-World Data Samples
 - Linear Algebra
+- Probability and Information Theory
 - Linear Regression
 - Logistic Regression
 - Building Machine Learning Models
