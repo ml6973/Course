@@ -30,15 +30,18 @@ No required text book. Slides will be uploaded in GitHub.
 ### Grading Criteria 
 
 Quizzes (10%)
+
 Assignments (20% total)
+
 Mid-terms (15% each)
+
 Course project (45%) 
 
 ### Syllabus
 
 - Introduction to Big Data, Data Analytics, and Machine Learning 
 - Python Data Structures for working with Data
-- A carsh course on and Cloud Computing and Jupyter Notebook 
+- A carsh course on Cloud Computing and Jupyter Notebook 
 - A crash course on Python data structures
 - Real-World Data Samples
 - Building Machine Learning Models
