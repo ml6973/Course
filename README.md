@@ -44,9 +44,10 @@ Course project (45%)
 - A carsh course on Cloud Computing and Jupyter Notebook 
 - A crash course on Python data structures
 - Real-World Data Samples
-- Building Machine Learning Models
+- Linear Algebra
 - Linear Regression
 - Logistic Regression
+- Building Machine Learning Models
 - Deep Learning
 - Convolution Network
 - Unsupervised Learning
