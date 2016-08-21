@@ -2,6 +2,7 @@
 Applied Machine Learning with Big Data
 
 Tools
+
 The following cloud-based programming environment will be provided to each student: Python, Python libraries for linear algebra, plotting, machine learning, TensorFlow, Storm, Spark, and Github for submitting project code.
 
 Recommended Background
