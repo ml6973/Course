@@ -1,4 +1,4 @@
-# Applied Machine Laarning with Big Data
+# Applied Machine Learning with Big Data
 
 ### Tools
 
