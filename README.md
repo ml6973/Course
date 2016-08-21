@@ -21,8 +21,10 @@ No required text book. Slides will be uploaded in GitHub.
 
 ### Recommended Books (no required text book):
 
-1)	Witten, I. H., Frank, E., and Hall, M. (2011). Data Mining: Practical Machine Learning Tools and Techniques, third edition, Elsevier: San Francisco, ISBN 978-0-12-374856- 0 
+1)	Witten, I. H., Frank, E., and Hall, M. (2011). Data Mining: Practical Machine Learning Tools and Techniques, third edition, Elsevier: San Francisco, ISBN 978-0-12-374856- 0
+
 2)	Machine Learning, Tom Mitchell McGraw-Hill (1997)
+
 3)	A Course in Machine Learning, Hal Daume III (preprint available online)
 
 ### Grading Criteria 
@@ -31,7 +33,6 @@ Quizzes (10%)
 Assignments (20% total)
 Mid-terms (15% each)
 Course project (45%) 
-Extra Credit (10%)
 
 ### Syllabus
 
