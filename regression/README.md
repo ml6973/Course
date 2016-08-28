@@ -9,7 +9,7 @@ We encourage the use the IPython Notebook in our assignments. The IPython Notebo
 
 You are required to use IPython Notebook in the assignments.
 
-Python Libraries
+## Python Libraries
 
 Although you will be implementing algorithms from scratch in various assignments, some software tools will be useful in the process. In particular, there are four types of data tools that would be helpful:
 
@@ -17,3 +17,16 @@ Data manipulation: to help you slice-and-dice the data, create new features, and
 Matrix operations: in the inner loops of your algorithms, you will do various matrix operations, and libraries focus on these will speed-up your code significantly.
 Plotting library: so you can visualize data and models.
 Pre-implemented ML algorithms: in some assignments where we are focusing on fundamental ML concepts, such as cross-validation or the bias-variance tradeoff, you will use a pre-implemented ML algorithms to help focus your efforts on the fundamentals.
+
+## Installing the recommended software tools
+
+## Github repository
+
+## Resources
+
+These are some good resources you can explore:
+
+There are many Python resources available online. Here is a good place for documentation.
+For Panda and SkiLearn, there is also a lot of information available online. 
+Here are some starting points: the User Guide and detailed API docs.
+For Numpy, here is a getting started guide. We will also provide a tutorial when it’s time to use it.
