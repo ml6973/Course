@@ -46,7 +46,7 @@ Course project (45%)
 - Real-World Data Samples
 - Linear Algebra
 - Probability and Information Theory
-- Linear Regression
+- Linear Regression and Classification
 - Logistic Regression
 - Building Machine Learning Models
 - Deep Learning
