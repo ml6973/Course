@@ -1,4 +1,4 @@
-# Applied Machine Learning with Big Data
+# Applied Deep Learning with Big Data
 
 ### Tools
 
@@ -46,6 +46,7 @@ Course project (45%)
 - Real-World Data Samples
 - Linear Algebra
 - Probability and Information Theory
+- TensorFlow Programming
 - Linear Regression and Classification
 - Logistic Regression
 - Building Machine Learning Models
