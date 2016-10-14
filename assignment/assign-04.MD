@@ -13,6 +13,6 @@ a)
 -  Plot the error with Matplotlib 
 
 b)
-- add new neural network layyers and training the model again. comapre the error function between these two models.
+- add new neural network layers and training the model again. comapre the error function between these two models.
 
 
