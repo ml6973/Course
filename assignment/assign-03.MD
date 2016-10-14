@@ -1,4 +1,4 @@
-Email Classification: Spam or not Spam
+###Email Classification: Spam or not Spam
 
 Logistic Regression model for email classificatio is presented in:  
 http://jrmeyer.github.io/tutorial/2016/02/01/TensorFlow-Tutorial.html  
