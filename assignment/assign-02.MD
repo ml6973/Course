@@ -1,11 +1,13 @@
-### Write a TensorFlow Program: Classification
+Computing regression parameters using 
 
-Translate the following program to TensorFlow using your elab Cloud Jupyter Notebook
-(https://github.com/ml6973/Course/blob/master/code/Introduction%20to%20Deep%20Learning.ipynb)
+1) Closed Form (Usin linear algebra) 
+2) Gradient Descent 
 
-#### Data : 
-Data is taken from sklearn's make_moon dataset. There are two features and and the target is a categorical variable (0/1). The aim is to devise an algorithm that correctly classifies the datapoints. Here is the link to the data set:
-(https://github.com/ml6973/Course/blob/master/code/data/intro_to_ann.csv)
+Consider the following 5 point synthetic data set:
 
-#### Aproach: 
-You will build a TensorFlow neural networks Program from first principles
+X: 0,1,2,3,4
+Y: 1,3,7,13,21
+
+We want the line that “best fits” this data set as measured by residual sum of squares
+
+Answer: slope = 5, intercept = -1
