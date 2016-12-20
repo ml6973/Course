@@ -35,7 +35,7 @@ Assignments (20% total)
 
 Mid-terms (15% each)
 
-Course project (45%) 
+Course project (55%) 
 
 ### Syllabus
 
