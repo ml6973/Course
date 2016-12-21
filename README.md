@@ -35,7 +35,7 @@ Assignments (15%)
 
 Course project (65%)
 
-1. Read paper and define a ML problem (required instructor approval) 2.ML programming and implementation 3.Project presentation 4.Project documentation 
+1.Read paper and define a ML problem (required instructor approval) 2.ML programming and implementation 3.Project presentation 4.Project documentation 
 
 Extra grade (5%)
 This is a sample programming exercise defined by students but required instructor approval
