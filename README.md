@@ -34,7 +34,9 @@ Quizzes (20%)
 Assignments (15%)
 
 Course project (65%)
-a) Paper Reading and ML Programming Implementation
+
+a) Read Paper and Define an ML Problem -- required instructor approval
+b) ML Programming Implementation
 b) Project resentation 
 c) Project documentation 
 
