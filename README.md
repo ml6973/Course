@@ -29,13 +29,17 @@ No required text book. Slides will be uploaded in GitHub.
 
 ### Grading Criteria 
 
-Quizzes (10%)
+Quizzes (20%)
 
-Assignments (20% total)
+Assignments (15%)
 
-Mid-terms (15% each)
+Course project (65%)
+a) Paper Reading and ML Programming Implementation
+b) Project resentation 
+c) Project documentation 
 
-Course project (55%) 
+Extra grade (5%)
+This is a sample programming exercise defined by students but required instructor approval
 
 ### Syllabus
 
@@ -56,9 +60,8 @@ Course project (55%)
 - Recurrent NNs
 - Deep NLP
 - Reinforcement Learning
-- Apache Spark: Machine Learning on Big Data
 
-### Review 
+### Review as time permits
 
 - K-Means Clustering
 - Principal Component Analysis
@@ -66,3 +69,4 @@ Course project (55%)
 - Decision Trees and Random Forests
 - Support Vector Machines
 - K-Nearest Neighbor
+- Apache Spark: Machine Learning on Big Data
