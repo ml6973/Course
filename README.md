@@ -3,7 +3,7 @@
 ### Tools
 
 The following cloud-based programming environment will be provided to each student: 
-Python, Python libraries for linear algebra, plotting, machine learning, TensorFlow, Storm, Spark, and Github for submitting project code.
+Python, Python libraries for linear algebra, plotting, machine learning, TensorFlow, and Github for submitting project code.
 
 ### Recommended Background
 
